@@ -1,12 +1,5 @@
-# **Ingegneria dell'innovazione per le imprese digitali**  
-### Anno Accademico 2021/2022  
-
----
-
-# **PHARMALINK**  
-## Requirements Analysis Document  
-
-### **Team SRV**  
+# PHARMALINK 
+Team di sviluppo:
 - Davide Sgroi  
 - Francesco Paolo Rosone  
 - Salvatore Viganò  
